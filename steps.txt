@@ -16,3 +16,6 @@
 
 7. push local repo to remote
     git push -u origin main
+
+8. deploy repo on github pages
+    https://mostafaabdelmajied.github.io/iti-git-day1/
