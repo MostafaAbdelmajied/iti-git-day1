@@ -13,3 +13,6 @@
 
 6. connect remote repo to local
     git remote add origin git@github.com:MostafaAbdelmajied/iti-git-day1.git
+
+7. push local repo to remote
+    git push -u origin main
