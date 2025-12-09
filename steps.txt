@@ -1,0 +1,15 @@
+1. create ssh key 
+    ssh-keygen -t-ed25519 -C"mostafa/abdo2029@gmail.com"
+
+2. add ssh key to github
+
+3. create repo 
+    git init
+
+4. add files to staginig area
+    git add .
+
+5. make repo on github
+
+6. connect remote repo to local
+    git remote add origin git@github.com:MostafaAbdelmajied/iti-git-day1.git
